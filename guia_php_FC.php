@@ -95,7 +95,7 @@
     <input type = "number" name="edad">
     <br>
     <input type = "submit" value ="confirmar">
-    -->
+</form>-->
 
     <!-- Actividad 10: FORMULARIO (control radio) -->
     <!--<form method = "post" action="./captura_datos_FC.php">
